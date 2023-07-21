@@ -40,3 +40,8 @@ footer ul {
   text-align: center;
   list-style: none;
 }
+nav li,
+footer li {
+  display: inline;
+  padding: 1rem;
+}
