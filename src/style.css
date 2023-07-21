@@ -53,3 +53,8 @@ nav a {
 footer a {
   color: black;
 }
+
+div {
+  display: flex;
+  padding: 2rem;
+}
