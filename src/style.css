@@ -58,3 +58,8 @@ div {
   display: flex;
   padding: 2rem;
 }
+aside {
+  margin-left: 2rem;
+  padding: 5px;
+  border: 1px solid rgb(25, 226, 223);
+}
