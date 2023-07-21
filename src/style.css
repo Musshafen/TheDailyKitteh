@@ -35,3 +35,8 @@ footer {
   background-color: rgb(198, 175, 168);
   padding: 0.1px;
 }
+nav ul,
+footer ul {
+  text-align: center;
+  list-style: none;
+}
