@@ -26,3 +26,7 @@ h2 {
 h3 {
   color: #445566;
 }
+nav {
+  background-color: aqua;
+  padding: 0.1px;
+}
