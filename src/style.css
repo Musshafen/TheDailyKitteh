@@ -27,7 +27,7 @@ h3 {
   color: #445566;
 }
 nav {
-  background-color: aqua;
+  background-color: rgb(25, 226, 223);
   padding: 0.1px;
 }
 
@@ -44,4 +44,8 @@ nav li,
 footer li {
   display: inline;
   padding: 1rem;
+}
+
+nav a {
+  color: white;
 }
